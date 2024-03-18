@@ -1,0 +1,1 @@
+links & images and github pages better understanding will be achieved post completing this project
