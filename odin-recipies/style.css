@@ -1,0 +1,13 @@
+body {
+  font-family: Tahoma, Arial, Helvetica, sans-serif;
+}
+
+.items-list {
+  background-color: pink;
+  color: blue;
+}
+
+.heading {
+  background-color: lightyellow;
+  color: green;
+}
